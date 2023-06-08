@@ -75,6 +75,7 @@
         android:layout_alignParentTop="true"
         android:layout_marginStart="75dp"
         android:layout_marginTop="220dp"
+        android:onClick="btEnviar"
         android:text="Enviar" />
 
 </RelativeLayout>
