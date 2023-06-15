@@ -117,8 +117,8 @@
         android:layout_height="wrap_content"
         android:layout_alignParentStart="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginStart="9dp"
-        android:layout_marginBottom="112dp"
+        android:layout_marginStart="48dp"
+        android:layout_marginBottom="212dp"
         android:text="Notificaciones" />
 
     <EditText
@@ -141,14 +141,5 @@
         android:layout_marginStart="30dp"
         android:layout_marginBottom="302dp"
         android:text="F. Nac" />
-
-    <CalendarView
-        android:id="@+id/calFechaNac"
-        android:layout_width="243dp"
-        android:layout_height="177dp"
-        android:layout_alignParentEnd="true"
-        android:layout_alignParentBottom="true"
-        android:layout_marginEnd="27dp"
-        android:layout_marginBottom="93dp" />
 
 </RelativeLayout>
