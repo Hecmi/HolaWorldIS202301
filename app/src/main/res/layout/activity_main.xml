@@ -64,7 +64,7 @@
         android:layout_marginStart="146dp"
         android:layout_marginTop="128dp"
         android:ems="10"
-        android:inputType="numberPassword"
+        android:inputType="text|textPassword"
         android:text="Ingrese su nombre" />
 
     <Button
